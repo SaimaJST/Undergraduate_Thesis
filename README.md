@@ -32,6 +32,6 @@ In comparative performance, our method outperforms other methods in Subtask B in
 
 ## Acknowledgments
 
-- **SemEval 2019 Task 5 Dataset**: Special thanks to the creators and contributors of the SemEval 2019 Task 5 dataset.
+- **SemEval 2019 Task 5 Dataset**: Special thanks to the creators and contributors of the SemEval 2019 Task 5 dataset for providing a valuable resource for hate speech detection research..
 - **Collaborators**: Md. Nesarul Hoque, Dr. Abu Nowshed Chy, and Dr. Md. Hanif Seddiqui for their continuous guidance and contributions to the research.
 - **ICCIT**: For providing an excellent platform to present and share this research with the community.
