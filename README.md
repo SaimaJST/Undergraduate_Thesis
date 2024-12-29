@@ -12,7 +12,7 @@ The increasing prevalence of hate speech online is a major concern. Our research
 2. **Aggressive Behavior and Target Classification (Subtask B)**: Classifying aggressive behavior and identifying the target of the aggression.
 
 ### Motivation
-Hate speech on social media platforms poses significant challenges, contributing to social division and prejudice. While many studies have addressed hate speech detection, fewer have explored aggressive behavior and target classification. The performance of existing models has not been satisfactory in both subtasks, which motivated us to propose a novel solution.
+Hate speech on social media platforms poses significant challenges, contributing to social division and prejudice. While many studies have addressed hate speech detection, fewer have explored aggressive behavior and target classification. The performance of existing models has not been satisfactory in both subtasks, which motivated us to propose a advanced solution.
 
 ### Objectives
 - Promote safer online communications.
